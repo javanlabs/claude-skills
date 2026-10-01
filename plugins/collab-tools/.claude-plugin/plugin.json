@@ -1,0 +1,8 @@
+{
+  "name": "collab-tools",
+  "version": "1.0.0",
+  "description": "Skills for working with Collab (ActiveCollab): HTML formatting for tasks, discussions, and comments",
+  "author": {
+    "name": "uyab"
+  }
+}

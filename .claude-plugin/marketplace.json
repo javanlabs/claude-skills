@@ -1,0 +1,16 @@
+{
+  "name": "javan-skills",
+  "owner": {
+    "name": "Javan Labs"
+  },
+  "metadata": {
+    "description": "Claude Code skills shared across Javan teams"
+  },
+  "plugins": [
+    {
+      "name": "collab-tools",
+      "source": "./plugins/collab-tools",
+      "description": "Skills for working with Collab (ActiveCollab): HTML formatting for tasks, discussions, and comments"
+    }
+  ]
+}
